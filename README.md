@@ -1,4 +1,5 @@
 # Домашнее задание к лекции «Unit-тестирование»
+[![Build status](https://ci.appveyor.com/api/projects/status/962iuma15tbflts6?svg=true)](https://ci.appveyor.com/project/GarDeN-bear/ajs-homeworks-test-ci)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
