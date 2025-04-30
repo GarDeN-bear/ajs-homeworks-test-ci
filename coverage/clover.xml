@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1746008349921" clover="3.2.0">
+  <project timestamp="1746008349921" name="All files">
+    <metrics statements="14" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="4" elements="27" coveredelements="25" complexity="0" loc="14" ncloc="14" packages="1" files="2" classes="2"/>
+    <file name="http.js" path="/home/garden/Netology_FSMID/ajs-homeworks/test-ci/src/js/http.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+    </file>
+    <file name="tasks.js" path="/home/garden/Netology_FSMID/ajs-homeworks/test-ci/src/js/tasks.js">
+      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
